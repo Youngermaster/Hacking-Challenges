@@ -18,7 +18,7 @@ def decrypt(encrypted_message, key):
         else:
             decrypted_message += c
 
-    print(decrypted_message)
+    print(decrypted_message.upper())
 
 
 decrypt("FTQ CGUOW NDAIZ RAJ VGYBE AHQD FTQ XMLK PAS AR OMQEMD MZP KAGD GZUCGQ EAXGFUAZ UE PUMOADYNSUTS", 12)
