@@ -1,0 +1,14 @@
+{
+  "name": "irc-go-back-to-college",
+  "version": "1.0.0",
+  "description": "",
+  "main": "irc_exploit.js",
+  "scripts": {
+	  "start": "node irc_exploit.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "irc": "^0.5.2"
+  }
+}
