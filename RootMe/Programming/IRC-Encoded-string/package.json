@@ -1,0 +1,14 @@
+{
+  "name": "irc-encoded-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "irc_encoded_exploit.js",
+  "scripts": {
+	  "start": "node irc_encoded_exploit.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "irc": "^0.5.2"
+  }
+}
