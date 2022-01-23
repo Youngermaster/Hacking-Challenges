@@ -1,1 +1,1 @@
-mkdir content exploits nmap
+mkdir content exploits nmap scripts tmp
